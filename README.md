@@ -1,4 +1,4 @@
-<h3 align="center">Octocoupler characteristics using LabView</h3>
+<h3 align="center">Optocoupler characteristics using LabView</h3>
 
 ---
 
@@ -14,13 +14,13 @@
 
 ## About <a name = "about"></a>
 <p align="justify">
-This project was completed as a part of a college course in the field of electronics and was aimed at exploring the output characteristics of an octocoupler using LabVIEW. The objective was to study the effect of diode current on the output characteristics of the octocoupler and to obtain a clear understanding of its behavior under different conditions. A complete list of tasks with schematic can be found here - <a href="/TASKS.md">TASKS</a>.
+This project was completed as a part of a college course in the field of electronics and was aimed at exploring the output characteristics of an optocoupler using LabVIEW. The objective was to study the effect of diode current on the output characteristics of the optocoupler and to obtain a clear understanding of its behavior under different conditions. A complete list of tasks with schematic can be found here - <a href="/TASKS.md">TASKS</a>.
 </p>
 
 ## Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 1. Go to [Prerequisites](#prerequisites) and install required software.
-2. Download project files - [ZIP](https://github.com/NNydek/octocoupler-labview/archive/refs/heads/main.zip) or `gh repo clone NNydek/octocoupler-labview`
+2. Download project files - [ZIP](https://github.com/NNydek/optocoupler-labview/archive/refs/heads/main.zip) or `gh repo clone NNydek/optocoupler-labview`
 3. To startup the project, openup a file named `Octocoupler_4a.lvproj`
 4. In a project explorer, openup a file named `Main.vi`
 5. Main frontpanel should popup. To Run it, click an arrow located in the top left corner.
